@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "created": "2026-01-28T01:35:18.276Z",
+    "last_updated": "2026-01-28T01:35:18.276Z",
+    "spot_price_eur": 94.08,
+    "usd_to_eur": 0.84,
+    "margin_threshold": 15
+  },
+  "deals": [],
+  "scan_history": [
+    {
+      "timestamp": "2026-01-28T01:35:18.276Z",
+      "sources": [
+        "ebay.de",
+        "ebay.com"
+      ],
+      "listings_scanned": 0,
+      "deals_found": 0,
+      "spot_price_eur": 94.08
+    }
+  ]
+}
